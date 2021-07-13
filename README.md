@@ -24,8 +24,8 @@ Caso deseje ajudar com algum link de cursos, artigos, tutoriais ou outras maneir
 
 ## 🔖 Redes Sociais
 
-- [Linkedin](https://www.hiringcoders.com.br/)
-- [Instagram](https://vtex.com/br-pt/)
+- [Linkedin](https://www.linkedin.com/mwlite/in/thyago-raphael-396b48215)
+- [Instagram](https://www.instagram.com/traphael.dev/)
 ---
 
 Feito com ♥  by Thyago Raphael :wave:
