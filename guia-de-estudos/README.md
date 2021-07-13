@@ -52,6 +52,8 @@
 - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - Inglês
 - [Digital Innovation - SwiftUI e Combine](https://web.digitalinnovation.one/course/criando-um-aplicativo-com-swiftui-e-combine/learning/9f50bf10-c6b1-4c8a-8396-7c5be027b91e/)
 - [Digital Innovation - Conhecendo a Base do Swift](https://web.digitalinnovation.one/course/conhecendo-a-base-do-swift/learning/ccfecff3-da40-4b1a-bd13-3bbdc29950a6/?back=/browse)
+- [Princípios S.O.L.I.D aplicados no Swift](https://www.udemy.com/course/principios-solid-no-swift/)
+- [Build a real time chat app for iOS using Swift 5 & Firebase](https://iosacademy.teachable.com/p/build-messenger-app) - Inglês
 
 # Canais Youtube
 - [Kazi Munshimun Nabi](https://www.youtube.com/c/AnikMunshimunNabi/videos) - Inglês
@@ -74,6 +76,10 @@
 - [Principais arquiteturas para aplicações iOS](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/)
 - [Padrões de Projeto](https://refactoring.guru/pt-br/) - Inglês
 - [MVVM With SwiftUI and Combine](https://betterprogramming.pub/implement-a-clean-mvvm-architecture-in-swiftui-with-combine-637246fa1342) - Inglês
+- [O que é SOLID: O guia completo para você entender os 5 princípios da POO](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
+
+# Teste iOS
+- [iOS Tutorial Book](https://www.softcover.io/read/7671f69a/ios-tutorial-book/frontmatter) 
 
 # Vapor
 - [Serve Side Web Framework](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/) 
