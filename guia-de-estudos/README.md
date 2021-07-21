@@ -40,6 +40,11 @@
 - [Book Mastering SwiftUI](https://swiftui.s3-us-west-2.amazonaws.com/mastering-swiftui-sample.pdf) - Inglês
 - [Design Guide to SwiftUI](https://swiftui.design/guide) - Inglês
 
+# Combine
+- [Combine: Getting Started](https://www.raywenderlich.com/7864801-combine-getting-started) - Inglês
+- [Book - Using Combine - Joseph Heck](https://heckj.github.io/swiftui-notes/) - Inglês
+- [Combine Framework in Swift](https://medium.com/flawless-app-stories/combine-framework-in-swift-b730ccde131) - Inglês
+
 # Cursos
 - [Back Front Academy](https://programa.backfront.com.br/desenvolvedor) - Pago
 - [Digital House](https://www.digitalhouse.com/br/curso/desenvolvimento-mobile-ios?gclid=Cj0KCQjwraqHBhDsARIsAKuGZeF0ZlBKr7aYLJrAS2AUnwc7hXeLFgQ3TBzKAcw8qBtlNsgjt_dZB-YaAkjdEALw_wcB) - Pago
