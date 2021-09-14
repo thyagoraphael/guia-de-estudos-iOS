@@ -87,15 +87,15 @@
 - [iOS Tutorial Book](https://www.softcover.io/read/7671f69a/ios-tutorial-book/frontmatter) 
 
 # Vapor
-- [Serve Side Web Framework](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/) 
-- [Moderno CMS baseado em Swift - FeatherCMS](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/)
+- [Serve Side Web Framework](https://github.com/vapor/vapor) 
+- [Moderno CMS baseado em Swift - FeatherCMS](https://github.com/feathercms/feather/)
 
 # Blogs sobre Swift
 - [Swift by Sundell](https://www.swiftbysundell.com/) - Inglês
-- [Yet Another Swift Blog](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/) - Inglês
+- [Yet Another Swift Blog](https://www.vadimbulavin.com/) - Inglês
 - [Blog da Movile parte de iOS](https://movile.blog/categoria/ios/)
 - [The Swift Dev](https://theswiftdev.com/) - Inglês
-- [Swift Lee](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/) - Inglês
+- [Swift Lee](https://www.avanderlee.com/) - Inglês
 
 # PodCasts iOS
 - [Build Failed - Pessoal do iFood](https://podcasts.apple.com/br/podcast/build-failed-podcast/id1497071596)
