@@ -1,64 +1,84 @@
 # 🚀 GUIA DE ESTUDOS - iOS
 
-**OBS.** Sempre que possível olhe os Guidelines da Apple no site e Novidades no site Hacking with Swift.
+# Os conteúdos de estudos vão ser separados por níveis.
 
+**OBS.** Sempre que possível olhe os Guidelines da Apple no site e Novidades no site Hacking with Swift.
 
 > [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/) <br />
 > [Hacking With Swift](https://www.hackingwithswift.com/) - Aqui tem o Desafio de 100 dias de Swift e SwiftUI
+
 <br/>
 
-# Roadmap Developer iOS
+# Sumário
+
+- [Roadmap Developer iOS](#roadmap-developer-ios)
+- [Mentorias iOS](#mentorias-ios)
+- [Níveis](#níveis)
+    - [1 - Iniciante](#1-iniciante)
+    - [2 - Iniciante | Intermediário](#2-iniciante-|-intermediário)
+    - [3 - Intermediário](#3-intermediário)
+    - [4 - Intermediário | Avançado](#4-intermediário-|-avançado)
+    - [5 - Avançado](#1-iniciante)
+- [Blogs sobre Swift](#blogs-sobre-swift)
+- [Canais Youtube](#canais-youtube)
+- [PodCasts iOS](#podcasts-ios)
+- [Grupos de iOS no Brasil](#grupos-de-ios-no-brasil)
+- [Vagas de iOS no Github](#vagas-de-ios-no-brasil)
+
+<br>
+
+## Roadmap Developer iOS
 
 - [Swift Developer Roadmap](https://trello.com/b/hLGyiEEE/swift-developer-roadmap)
 - [Tech Trail Will iOS](https://trello.com/b/qmF8D42f/tech-trail-will-ios)
 
-# Algoritmos e Estrutura de Dados em Swift
-- [Swift Algorithm Club!](https://github.com/raywenderlich/swift-algorithm-club) - Inglês
-- [Algoritmos e Estruturas de Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
+<br>
 
-# Swift
+## Mentorias iOS
+Deseja participar de uma mentoria particular? <br>
+Entra em contato com esse pessoal, manjam demais do assunto.
 
-- [Documentação Swift](https://docs.swift.org/swift-book/)
+- https://devpass.com.br/
+- https://backfront.com.br/academy/
 
-# UIKit
-- [Tutotial oficial Apple sobre UIKit](https://developer.apple.com/tutorials/app-dev-training#uikit-essentials) - Inglês
-- [Curso de Stanford iOS 10 with Swift 3 - 2017 ](https://www.youtube.com/playlist?list=PL3d_SFOiG7_-AhUEwk_TJ_GEjO67GMBHR) - Inglês
-- [Curso de Stanford iOS 11 with Swift 4 - 2017 ](https://www.youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_) - Inglês
-- [Curso de ViewCode da Back Front Academy](https://www.hotmart.com/product/viewcode-descomplicado/W52464604O) - Pago
+<br>
 
-# SwiftUI
-- [Tutorial oficial Apple sobre SwiftUI](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/) - Inglês
-- [Repositório SwiftUI](https://github.com/Jinxiansen/SwiftUI) - Inglês
-- [Livro Desenvolvimento iOS com Swift](https://leanpub.com/ioscloud) - Pago
-- [SwiftUI Tutorials, Example Projects, Libraries and Other Resources](https://swiftui.devindex.xyz/) - Inglês
-- [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - Inglês
-- [A list of articles, tutorials, guides and videos about SwiftUI and Combine.](https://github.com/vlondon/awesome-swiftui) - Inglês
-- [SwiftUI Animations](https://github.com/Shubham0812/SwiftUI-Animations) - Inglês
-- [Cursos site Design Code](https://designcode.io/courses) - Inglês
-- [Simple SwfitUI Guide](https://www.simpleswiftguide.com/) - Inglês
-- [Curso de Stanford 2020 e 2021](https://cs193p.sites.stanford.edu/) - Inglês
-- [Book Mastering SwiftUI](https://swiftui.s3-us-west-2.amazonaws.com/mastering-swiftui-sample.pdf) - Inglês
-- [Design Guide to SwiftUI](https://swiftui.design/guide) - Inglês
+# Níveis
 
-# Combine
-- [Combine: Getting Started](https://www.raywenderlich.com/7864801-combine-getting-started) - Inglês
-- [Book - Using Combine - Joseph Heck](https://heckj.github.io/swiftui-notes/) - Inglês
-- [Combine Framework in Swift](https://medium.com/flawless-app-stories/combine-framework-in-swift-b730ccde131) - Inglês
+## 1 -  Iniciante
 
-# Cursos
-- [Back Front Academy](https://programa.backfront.com.br/desenvolvedor) - Pago
-- [Digital House](https://www.digitalhouse.com/br/curso/desenvolvimento-mobile-ios?gclid=Cj0KCQjwraqHBhDsARIsAKuGZeF0ZlBKr7aYLJrAS2AUnwc7hXeLFgQ3TBzKAcw8qBtlNsgjt_dZB-YaAkjdEALw_wcB) - Pago
-- [iOS Developer Thiago Aguiar](https://iosdeveloper.com.br/ios/curso?utm_campaign=AE&utm_source=blog&utm_medium=hello-bar) - Pago
-- [Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) - Pago
-- [SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) - Inglês & Pago
-- [Curso Completo Desenvolvimento iOS 11 Swift 4 - Crie 20 Apps](https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4/) - Pago
-- [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/course/aprendendoswift3/)
-- [iOS 13 & Swift 5 - Recriando o Tinder 2020 - ViewCode](https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/)
-- [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - Inglês
-- [Digital Innovation - SwiftUI e Combine](https://web.digitalinnovation.one/course/criando-um-aplicativo-com-swiftui-e-combine/learning/9f50bf10-c6b1-4c8a-8396-7c5be027b91e/)
-- [Digital Innovation - Conhecendo a Base do Swift](https://web.digitalinnovation.one/course/conhecendo-a-base-do-swift/learning/ccfecff3-da40-4b1a-bd13-3bbdc29950a6/?back=/browse)
-- [Princípios S.O.L.I.D aplicados no Swift](https://www.udemy.com/course/principios-solid-no-swift/)
-- [Build a real time chat app for iOS using Swift 5 & Firebase](https://iosacademy.teachable.com/p/build-messenger-app) - Inglês
+- (*Backfront Academy*) Swift Descomplicado - https://www.hotmart.com/product/swiftui-descomplicado
+- Aprendendo Swift do Iniciante ao Avançado - https://www.udemy.com/course/aprendendoswift3/
+- 
+
+## 2 - Iniciante | Intermediário
+
+- iOS & Swift - The Complete iOS App Development Bootcamp - https://www.udemy.com/course/ios-13-app-development-bootcamp/
+- Desenvolvimento IOS 12 - Aprenda a criar 18 Apps - https://www.udemy.com/course/curso-desenvolvimento-ios/
+- Curso Completo Desenvolvimento iOS 11 Swift 4 - Crie 20 Apps - https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4/
+- (*Digital Innovation One - https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift
+
+## 3 - Intermediário
+
+- (*Backfront Academy*) Viewcode Descomplicado - https://hotmart.com/product/viewcode-descomplicado
+- (*Digital Innovation One*) - https://digitalinnovation.one/cursos/criando-um-aplicativo-com-swiftui-e-combine
+
+## 4 - Intermediário | Avançado
+
+- (*Rodrigo Manguinho*) Swift - TDD, Clean Architecture, Design Patterns, SOLID, MVP - https://www.udemy.com/course/swift-tdd-com-mango/
+
+## 5 - Avançado
+
+<br>
+
+# Blogs sobre Swift
+- [Swift by Sundell](https://www.swiftbysundell.com/) - Inglês
+- [Yet Another Swift Blog](https://www.vadimbulavin.com/) - Inglês
+- [Blog da Movile parte de iOS](https://movile.blog/categoria/ios/)
+- [The Swift Dev](https://theswiftdev.com/) - Inglês
+- [Swift Lee](https://www.avanderlee.com/) - Inglês
+
+<br>
 
 # Canais Youtube
 - [Kazi Munshimun Nabi](https://www.youtube.com/c/AnikMunshimunNabi/videos) - Inglês
@@ -77,25 +97,7 @@
 - [iOS Academy](https://www.youtube.com/c/iOSAcademy/videos) - Inglês
 - [Cicero Codemus](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/videos)
 
-# Arquiteturas para aplicações iOS
-- [Principais arquiteturas para aplicações iOS](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/)
-- [Padrões de Projeto](https://refactoring.guru/pt-br/) - Inglês
-- [MVVM With SwiftUI and Combine](https://betterprogramming.pub/implement-a-clean-mvvm-architecture-in-swiftui-with-combine-637246fa1342) - Inglês
-- [O que é SOLID: O guia completo para você entender os 5 princípios da POO](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
-
-# Teste iOS
-- [iOS Tutorial Book](https://www.softcover.io/read/7671f69a/ios-tutorial-book/frontmatter) 
-
-# Vapor
-- [Serve Side Web Framework](https://github.com/vapor/vapor) 
-- [Moderno CMS baseado em Swift - FeatherCMS](https://github.com/feathercms/feather/)
-
-# Blogs sobre Swift
-- [Swift by Sundell](https://www.swiftbysundell.com/) - Inglês
-- [Yet Another Swift Blog](https://www.vadimbulavin.com/) - Inglês
-- [Blog da Movile parte de iOS](https://movile.blog/categoria/ios/)
-- [The Swift Dev](https://theswiftdev.com/) - Inglês
-- [Swift Lee](https://www.avanderlee.com/) - Inglês
+<br>
 
 # PodCasts iOS
 - [Build Failed - Pessoal do iFood](https://podcasts.apple.com/br/podcast/build-failed-podcast/id1497071596)
@@ -103,9 +105,29 @@
 - [iOS Dev Break](https://iosdevbreak.com/) - Inglês
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - Inglês
 
+<br>
+
 # Grupos de iOS no Brasil
 - [Slack iOS Dev BR](https://iosdevbr.herokuapp.com/)
 - [Comunidade NS Flow - Github, Telegram e Clubhouse](https://nsflow.codes/)
 
+<br>
+
 # Vagas de iOS no Github
 - [Cocoa Heads Vagas iOS](https://github.com/CocoaHeadsBrasil/vagas)
+
+<br>
+
+## 💻 Colaboração
+
+Caso deseje ajudar com algum link de cursos, artigos, tutoriais ou outras maneiras de estudos, abre uma issue ou me manda uma mensagem no linkedin ou instagram nos links das Redes Sociais abaixo.
+
+<br>
+
+## 🔖 Redes Sociais
+
+- [Linkedin](https://www.linkedin.com/mwlite/in/thyago-raphael-396b48215)
+- [Instagram](https://www.instagram.com/traphael.dev/)
+---
+
+Feito com ♥  by Thyago Raphael :wave:
