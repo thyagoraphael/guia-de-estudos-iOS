@@ -22,7 +22,7 @@
 - [Canais Youtube](#canais-youtube)
 - [PodCasts iOS](#podcasts-ios)
 - [Grupos de iOS no Brasil](#grupos-de-ios-no-brasil)
-- [Vagas de iOS no Github](#vagas-de-ios-no-brasil)
+- [Vagas de iOS no Github](#vagas-de-ios-no-github)
 
 
 ## Roadmap Developer iOS
