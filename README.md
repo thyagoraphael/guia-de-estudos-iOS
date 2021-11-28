@@ -2,10 +2,12 @@
 
 ## 🔖  O Guia de Estudos
 
-Para acessar o guia de estudos basta acessar esse [Guia de Estudos](./guia-de-estudos/README.md) ou entrar na pasta guia-de-estudos dentro do repositório.  
+Para acessar o guia de estudos basta acessar esse [link](./guia-de-estudos/README.md) ou entrar na pasta guia-de-estudos dentro do repositório.  
 <br>
 
-## 🚀 O que vamos aprender com esse guia
+## 🚀 Alguns dos conteúdos que você vai encontrar nesse repositório
+
+<br>
 
 - Swift
 - UIKit
@@ -18,9 +20,13 @@ Para acessar o guia de estudos basta acessar esse [Guia de Estudos](./guia-de-es
 - Padrões de Projeto
 - e outras coisitas.
 
+<br>
+
 ## 💻 Colaboração
 
 Caso deseje ajudar com algum link de cursos, artigos, tutoriais ou outras maneiras de estudos, abre uma issue ou me manda uma mensagem no linkedin ou instagram nos links das Redes Sociais abaixo.
+
+<br>
 
 ## 🔖 Redes Sociais
 
