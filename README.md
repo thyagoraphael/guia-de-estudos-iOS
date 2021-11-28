@@ -51,7 +51,7 @@ Entra em contato com esse pessoal, manjam demais do assunto.
 - iOS & Swift - The Complete iOS App Development Bootcamp - https://www.udemy.com/course/ios-13-app-development-bootcamp/
 - Desenvolvimento IOS 12 - Aprenda a criar 18 Apps - https://www.udemy.com/course/curso-desenvolvimento-ios/
 - Curso Completo Desenvolvimento iOS 11 Swift 4 - Crie 20 Apps - https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4/
-- (*Digital Innovation One - https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift
+- (*Digital Innovation One*) - https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift
 
 ## 3 - Intermediário
 
