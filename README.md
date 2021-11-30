@@ -45,6 +45,7 @@ Entra em contato com esse pessoal, manjam demais do assunto.
 
 - (*Backfront Academy*) Swift Descomplicado - https://www.hotmart.com/product/swiftui-descomplicado
 - Aprendendo Swift do Iniciante ao Avançado - https://www.udemy.com/course/aprendendoswift3/
+- (*Bruno Scheltzke*) - https://youtube.com/playlist?list=PLZwVYMtzU9Em9q0vVyneFdqn-4XVl9YBG
 
 ## 2 - Iniciante | Intermediário
 
