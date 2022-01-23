@@ -5,8 +5,13 @@
 **OBS.** Sempre que possível olhe os Guidelines da Apple no site e Novidades no site Hacking with Swift.
 
 > [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/) <br />
-> [Hacking With Swift](https://www.hackingwithswift.com/) - Aqui tem o Desafio de 100 dias de Swift e SwiftUI
+> [Hacking With Swift](https://www.hackingwithswift.com/) - Aqui tem o Desafio de 100 dias de Swift e SwiftUI <br >
 
+> [Cursos de iOS da Stanford](https://www.hackingwithswift.com/)
+> - [CS193P Spring 2021 - SwiftUI](https://cs193p.sites.stanford.edu/)
+> - [CS193P Spring 2020 - SwiftUI](https://cs193p.sites.stanford.edu/2020)
+> - [Developing iOS 11 [2017-2018]](https://www.youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
+> - [Developing iOS 10 [2017]](https://www.youtube.com/playlist?list=PL3d_SFOiG7_-AhUEwk_TJ_GEjO67GMBHR)
 
 # Sumário
 
@@ -38,6 +43,7 @@ Entra em contato com esse pessoal, manjam demais do assunto.
 - https://devpass.com.br/
 - https://backfront.com.br/academy/
 
+<br>
 
 # Níveis
 
