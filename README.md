@@ -5,7 +5,8 @@
 **OBS.** Sempre que possível olhe os Guidelines da Apple no site e Novidades no site Hacking with Swift.
 
 > [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/) <br />
-> [Hacking With Swift](https://www.hackingwithswift.com/) - Aqui tem o Desafio de 100 dias de Swift e SwiftUI <br >
+> [100 Days of Swift - UIKit](https://www.hackingwithswift.com/100) - Desafio de 100 dias de Swift com UIKit <br >
+> [100 Days of Swift - SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Desafio de 100 dias de Swift com SwiftUI <br >
 
 > [Cursos de iOS da Stanford](https://www.hackingwithswift.com/)
 > - [CS193P Spring 2021 - SwiftUI](https://cs193p.sites.stanford.edu/)
@@ -29,12 +30,10 @@
 - [Grupos de iOS no Brasil](#grupos-de-ios-no-brasil)
 - [Vagas de iOS no Github](#vagas-de-ios-no-github)
 
-
 ## Roadmap Developer iOS
 
 - [Swift Developer Roadmap](https://trello.com/b/hLGyiEEE/swift-developer-roadmap)
 - [Tech Trail Will iOS](https://trello.com/b/qmF8D42f/tech-trail-will-ios)
-
 
 ## Mentorias iOS
 Deseja participar de uma mentoria particular? <br>
@@ -42,8 +41,6 @@ Entra em contato com esse pessoal, manjam demais do assunto.
 
 - https://devpass.com.br/
 - https://backfront.com.br/academy/
-
-<br>
 
 # Níveis
 
@@ -80,7 +77,6 @@ Entra em contato com esse pessoal, manjam demais do assunto.
 - [The Swift Dev](https://theswiftdev.com/) - Inglês
 - [Swift Lee](https://www.avanderlee.com/) - Inglês
 
-
 ## Canais Youtube
 - [Kazi Munshimun Nabi](https://www.youtube.com/c/AnikMunshimunNabi/videos) - Inglês
 - [Thiago Aguiar - iOS & Android](https://www.youtube.com/c/TiagoAguiar/videos)
@@ -98,27 +94,22 @@ Entra em contato com esse pessoal, manjam demais do assunto.
 - [iOS Academy](https://www.youtube.com/c/iOSAcademy/videos) - Inglês
 - [Cicero Codemus](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/videos)
 
-
 ## PodCasts iOS
 - [Build Failed - Pessoal do iFood](https://podcasts.apple.com/br/podcast/build-failed-podcast/id1497071596)
 - [Inside iOS Dev](https://insideiosdev.com/) - Inglês
 - [iOS Dev Break](https://iosdevbreak.com/) - Inglês
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - Inglês
 
-
 ## Grupos de iOS no Brasil
 - [Slack iOS Dev BR](https://iosdevbr.herokuapp.com/)
 - [Comunidade NS Flow - Github, Telegram e Clubhouse](https://nsflow.codes/)
 
-
 ## Vagas de iOS no Github
 - [Cocoa Heads Vagas iOS](https://github.com/CocoaHeadsBrasil/vagas)
-
 
 ## 💻 Colaboração
 
 Caso deseje ajudar com algum link de cursos, artigos, tutoriais ou outras maneiras de estudos, abre uma issue ou me manda uma mensagem no linkedin ou instagram nos links das Redes Sociais abaixo.
-
 
 ## 🔖 Redes Sociais
 
