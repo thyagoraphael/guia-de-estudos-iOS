@@ -9,7 +9,8 @@
 > [100 Days of Swift - SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Desafio de 100 dias de Swift com SwiftUI <br >
 
 > [Cursos de iOS da Stanford](https://www.hackingwithswift.com/)
-> - [CS193P Spring 2021 - SwiftUI](https://cs193p.sites.stanford.edu/)
+> - [CS193P Spring 2023 - SwiftUI](https://cs193p.sites.stanford.edu/2023)
+> - [CS193P Spring 2021 - SwiftUI](https://cs193p.sites.stanford.edu/2021-0)
 > - [CS193P Spring 2020 - SwiftUI](https://cs193p.sites.stanford.edu/2020)
 > - [Developing iOS 11 [2017-2018]](https://www.youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
 > - [Developing iOS 10 [2017]](https://www.youtube.com/playlist?list=PL3d_SFOiG7_-AhUEwk_TJ_GEjO67GMBHR)
